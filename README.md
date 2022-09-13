@@ -28,10 +28,10 @@ Utilizamos tableau para hacer el dashboard.
 
 ## Conclusiones
 
-- Los países Canada, USA, Australia y UK suelen coincidir en canciones top mundial así como en genero músical seguramente por el idioma.
-- España se asemeja en canciones top mundial con Colombia y en género musical junta a ésta y Argentina.
-- Japón y Corea del Sur tienen sus propios top mundiales que no suelen compartir con otros países sobre todo más occidentales.
-- *Harry Styles* ha sido el artista con mas canciones top mundial en las fechas escogidas para esta base de datos y en segundo lugar *Kate Bush*.
-- *"As It was"* ha sido la canción que más veces a sido top mundial en diferentes países, mientras que en segundo lugar ha sido la canción de la banda sonora de la serie *Stranger Things*, *"Running Up That Hill"*. Posicionándose en tercer lugar tenemos a Quevedo junto con Bizarrap que actualmente son top mundiales en todo el planeta. 
-- Podemos ver como canciones como *"As it Was"* se han escuchado con un clima desde muy soleado a un mal clima, mientras que la canción de *Quevedo & Bizarrap* se ha escuchado más con climas más soleados, finalmente la canción de *"Running Up that Hill"* se ha escuchando en lugares con clima más nublado y lluvioso. 
+- Los países **Canadá, USA, Australia y UK** suelen coincidir en canciones top mundial así como en genero músical seguramente por el idioma.
+- **España** se asemeja en canciones top mundial con **Colombia** y en género musical junta a ésta y **Argentina**.
+- **Japón y Corea del Sur** tienen sus propios top mundiales que no suelen compartir con otros países sobre todo más occidentales.
+- **Harry Styles** ha sido el artista con mas canciones top mundial en las fechas escogidas para esta base de datos y en segundo lugar **Kate Bush**.
+- **"As It was"** ha sido la canción que más veces a sido top mundial en diferentes países, mientras que en segundo lugar ha sido la canción de la banda sonora de la serie **Stranger Things**, **"Running Up That Hill"**. Posicionándose en tercer lugar tenemos a **Quevedo & Bizarrap** que actualmente son top mundiales en todo el planeta. 
+- Podemos ver como canciones como **"As it Was"** se han escuchado con un clima desde muy soleado a un mal clima, mientras que la canción de **Quevedo & Bizarrap** se ha escuchado más con climas más soleados, finalmente la canción de **"Running Up that Hill"** se ha escuchando en lugares con clima más nublado y lluvioso. 
 
