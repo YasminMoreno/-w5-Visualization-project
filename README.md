@@ -5,7 +5,7 @@ Dashboard
 
 ## Introducción
 
-Para este proyecto sobre realización de dashboards hemos cogido las tablas de SQL que elaboramos en el proyecto de ETL sobre spotify y las listas de musica top mundiales de diferentes países y área geográfica.
+Para este proyecto sobre realización de dashboards hemos cogido las tablas de SQL que elaboramos en el proyecto de ETL sobre Spotify y las listas de música top mundiales de diferentes países y área geográfica.
 
 Utilizamos tableau para hacer el dashboard.
 
@@ -28,10 +28,10 @@ Utilizamos tableau para hacer el dashboard.
 
 ## Conclusiones
 
-- Los países Canada, USA, Australia y UK suelen coincidir en canciones top mundial así como en genero músical.
-- España se asemeja en canciones top mundial con colombia y en genero musical junta a ésta y Argentina.
-- Japón y Korea tienen sus propios tiop mundiales que no suelen compartir con otros países sobre todo mas occidentales.
-- Harry Styles ha sido el artista con mas canciones top mundial en las fechas escogidas para esta base de datos y en segundo lugar Kate Bush.
-- As it was ha sido la canción que más veces a sido top mundial en diferentes países, mientras que en segundo lugar ha sido la canción de la banda sonora de stanger things running up that hill, posicionandose en tercer lugar Quevedo junto con bizarrap y actualmente continuando con top mundiales en todo el planeta. 
-- Podemos ver como canciones como As ir was se ha escuchado con un clima desde muy soleado a un mal clima, la canción de Quevedo junto con bizarrap sobre todo con climas más soleados y la de running up that hill con peor clima. 
+- Los países Canada, USA, Australia y UK suelen coincidir en canciones top mundial así como en genero músical seguramente por el idioma.
+- España se asemeja en canciones top mundial con Colombia y en género musical junta a ésta y Argentina.
+- Japón y Corea del Sur tienen sus propios top mundiales que no suelen compartir con otros países sobre todo más occidentales.
+- *Harry Styles* ha sido el artista con mas canciones top mundial en las fechas escogidas para esta base de datos y en segundo lugar *Kate Bush*.
+- *"As It was"* ha sido la canción que más veces a sido top mundial en diferentes países, mientras que en segundo lugar ha sido la canción de la banda sonora de la serie *Stranger Things*, *"Running Up That Hill"*. Posicionándose en tercer lugar tenemos a Quevedo junto con Bizarrap que actualmente son top mundiales en todo el planeta. 
+- Podemos ver como canciones como *"As it Was"* se han escuchado con un clima desde muy soleado a un mal clima, mientras que la canción de *Quevedo & Bizarrap* se ha escuchado más con climas más soleados, finalmente la canción de *"Running Up that Hill"* se ha escuchando en lugares con clima más nublado y lluvioso. 
 
