@@ -22,7 +22,7 @@ Utilizamos tableau para hacer el dashboard.
 
 ## Entregables
 
-1. Archivo `spotiweather.twb.` de tableau desktop con los dashboards y la historia. 
+1. Archivo `spotiweather.twb` de tableau desktop con los dashboards y la historia. 
 
 
 
